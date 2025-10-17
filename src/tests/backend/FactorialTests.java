@@ -14,4 +14,4 @@ public class FactorialTests {
         assertEquals(ProceduralFactorial.compute(0), 1);
         assertEquals(ProceduralFactorial.compute(1), 1);
         assertEquals(ProceduralFactorial.compute(5), 120);
-        assertEquals(ProceduralFactorial.compute(10), 362
+        assertEquals(ProceduralFactorial.compute(10), 362);
